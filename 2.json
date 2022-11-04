@@ -1,0 +1,9 @@
+{
+    "name": "BRONZE",
+    "description":"BRONZE is a popular NFT.",
+    "image": "https://i.postimg.cc/L4NFsgv3/bronze.png",
+    "properties": {
+      "rarity": "popular"
+    }
+  }
+  
