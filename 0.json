@@ -1,0 +1,10 @@
+{
+    "name": "GOLD",
+    "description":"GOLD is a popular nft.",
+    "image": "ipfs://QmQmxfKZvCudgbFiaZdJSK7FesK9cBqRz41mCUfJYMJGiq/agra.jpg",
+    "properties": {
+      "rarity": "a bit rare",
+      "fanciness": 8
+    }
+  }
+  
